@@ -1,0 +1,74 @@
+
+body {
+  padding-top: 50px;
+  background-color: #f8f9fa; 
+}
+#navbar {
+  padding: 10px;
+  margin: 10px auto;
+  border-bottom: 1px solid #ccc;
+}
+
+#navbar .row a:nth-child(2) {
+  margin-right: 50px;
+}
+
+#navbar a{
+  width: 100px;
+  color: #333;
+}
+
+#navbar a:hover {
+  color: #c1b696;
+}
+
+
+h1 {
+  font-weight: bold;
+  color: #333; 
+  text-align: center;
+  margin-top: 50px; 
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+form {
+  margin-bottom: 30px;
+}
+
+
+table {
+  margin-top: 30px;
+}
+
+th,
+td {
+  text-align: center;
+}
+
+
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2; 
+}
+
+footer {
+  background-color: #343a40;
+  padding: 10px 0;
+  color: #fff;
+  text-align: center;
+}
+
+#social-icons-container .col-1 {
+  font-size: 24px;
+  margin: 0 10px;
+}
+
+
+footer p {
+  margin-bottom: 0;
+}
+
+button {
+  margin-top: 10px;
+}
